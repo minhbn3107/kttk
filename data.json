@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "Pinarello Mountain",
+        "type": "Mountain",
+        "price": 1800,
+        "isFavorite": false
+    },
+    {
+        "id": "2",
+        "name": "Pina Mountain",
+        "type": "Mountain",
+        "price": 1700,
+        "isFavorite": false
+    },
+    {
+        "id": "3",
+        "name": "Pina Bike",
+        "type": "Roadbike",
+        "price": 1500,
+        "isFavorite": false
+    },
+    {
+        "id": "4",
+        "name": "Pinarello",
+        "type": "Roadbike",
+        "price": 1900,
+        "isFavorite": false
+    },
+    {
+        "id": "5",
+        "name": "Pinarello",
+        "price": 2700,
+        "type": "Roadbike",
+        "isFavorite": false
+    },
+    {
+        "id": "6",
+        "name": "Pinarello",
+        "type": "Mountain",
+        "price": 1350,
+        "isFavorite": false
+    }
+]
